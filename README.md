@@ -1,6 +1,8 @@
 # deep-learning-course
 Deep Learning Course
 
+<img src="./lecture-1/lecture_full/img/ods.png" width="640"/>
+
 ## Part 1: Autograd
 - Pavel Nesterov
 - http://pavelnesterov.info
